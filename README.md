@@ -3,6 +3,8 @@
 > **End-to-End ELT Pipeline & BI Dashboard** — Google BigQuery + Looker Studio  
 > Designed for commercial operations in a global industrial and services environment.
 
+Looker Studio Link: https://datastudio.google.com/reporting/b9cb5173-be09-42b1-924f-cf82a02cab27
+
 ---
 
 ## Overview
@@ -162,6 +164,7 @@ FROM industry_metrics;
 ---
 
 ## BI Dashboard — Looker Studio
+Looker Studio Link: https://datastudio.google.com/reporting/b9cb5173-be09-42b1-924f-cf82a02cab27
 <img width="1323" height="996" alt="image" src="https://github.com/user-attachments/assets/5cc4d59e-88be-4129-8194-18ca78b51a2d" />
 
 
