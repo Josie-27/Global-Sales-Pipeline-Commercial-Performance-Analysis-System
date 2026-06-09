@@ -13,6 +13,22 @@ In a global B2B environment, reliable decision-making depends on transforming ra
 
 This project delivers an automated **two-layer data warehouse pipeline** on **Google BigQuery** that ingests transactional sales data, enforces automated data quality governance, and surfaces key commercial KPIs through an interactive **Looker Studio** executive dashboard.
 
+---
+
+## Tech Stack
+
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-informational?style=flat)
+
+- **Google BigQuery** — Data warehouse, scheduled queries, window functions
+- **Looker Studio** — BI visualization, real-time stakeholder dashboards
+- **SQL** — CTEs, `RANK() OVER`, `DATE_DIFF`, conditional aggregation, compliance filtering
+- **ELT Architecture** — Two-layer pipeline with separation of audit and business logic
+
+---
+
+
 ### Business Value Delivered
 
 | Outcome | How |
@@ -188,19 +204,6 @@ Both pipeline layers feed dynamically into an executive Looker Studio dashboard 
 | Dashboard refresh | Looker Studio automated cache refresh | Morning, pre-business hours |
 
 Stakeholders receive updated commercial insights at the start of each business day with zero manual intervention.
-
----
-
-## Tech Stack
-
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-informational?style=flat)
-
-- **Google BigQuery** — Data warehouse, scheduled queries, window functions
-- **Looker Studio** — BI visualization, real-time stakeholder dashboards
-- **SQL** — CTEs, `RANK() OVER`, `DATE_DIFF`, conditional aggregation, compliance filtering
-- **ELT Architecture** — Two-layer pipeline with separation of audit and business logic
 
 ---
 
