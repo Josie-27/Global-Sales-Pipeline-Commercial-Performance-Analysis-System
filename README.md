@@ -4,6 +4,8 @@
 > Designed for commercial operations in a global industrial and services environment.
 
 Looker Studio Link: https://datastudio.google.com/reporting/b9cb5173-be09-42b1-924f-cf82a02cab27
+Pipeline:
+<img width="913" height="646" alt="image" src="https://github.com/user-attachments/assets/4af7c670-4c1d-411b-9de2-ef023109fa4d" />
 
 ---
 
@@ -20,6 +22,7 @@ This project delivers an automated **two-layer data warehouse pipeline** on **Go
 ![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-informational?style=flat)
+<img width="913" height="646" alt="image" src="https://github.com/user-attachments/assets/bd0a06b3-3882-4706-819e-fd96c1a54acf" />
 
 - **Google BigQuery** — Data warehouse, scheduled queries, window functions
 - **Looker Studio** — BI visualization, real-time stakeholder dashboards
@@ -196,6 +199,7 @@ Both pipeline layers feed dynamically into an executive Looker Studio dashboard 
 ---
 
 ## Pipeline Automation
+
 
 | Step | Mechanism | Schedule |
 |---|---|---|
