@@ -162,6 +162,8 @@ FROM industry_metrics;
 ---
 
 ## BI Dashboard — Looker Studio
+<img width="1323" height="996" alt="image" src="https://github.com/user-attachments/assets/5cc4d59e-88be-4129-8194-18ca78b51a2d" />
+
 
 Both pipeline layers feed dynamically into an executive Looker Studio dashboard built for non-technical stakeholders.
 
